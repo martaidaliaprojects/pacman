@@ -1,0 +1,6 @@
+Title: Pacmen
+Description: Move Packmen
+
+In athis project we are able able to create a pacman and make it move across the screen. In addition, we will create a pacman on demand (button click) and move these pacmen across the page.
+
+Licensed under the [MIT License](LICENSE) 
